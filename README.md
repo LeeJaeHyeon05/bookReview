@@ -1,15 +1,15 @@
 # 도서리뷰 앱
 
 ### 사용 기능
-RecyclerView
+* RecyclerView
 
-ViewBinding
+* ViewBinding
 
-Retrofit
+* Retrofit
 
-Glid(이미지 로딩)
+* Glid(이미지 로딩)
 
-Android Room (로컬 DB)
+* Android Room (로컬 DB)
 
-Open API
+* Open API
 
